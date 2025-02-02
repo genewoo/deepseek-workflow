@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.alfredapp.vitor.openai</string>
+	<string>com.genewu.deepseek</string>
 	<key>connections</key>
 	<dict>
 		<key>002874FF-3AE4-4E8F-A4F8-65844E5D6CFB</key>
@@ -32,11 +32,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>01A59F71-DA66-43E4-A948-1F2B653710DF</key>
+		<key>0172102D-CED2-4AA4-A4B7-A6A2407FFE80</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>C81D4557-D55C-4B23-8FB3-B28519D292A0</string>
+				<string>B2F04B2C-63AD-4A6D-9A81-7F333D0A075A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -115,19 +115,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>3F877D5C-BA2B-4BA1-9601-2CE9D29C31B5</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>2DFDEB25-8ABB-4A11-A363-0879F9878137</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>BD3EE72E-D542-4AEB-AED1-EA3C1F7BF6EC</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -218,6 +205,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>5D62F3F2-6C70-46B5-9867-2C59F560EEF1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>19467065-1FA8-4C92-9F58-797A122BE296</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>67764921-B974-4D41-A880-7D7C20FEC182</key>
 		<array>
 			<dict>
@@ -229,55 +229,6 @@
 				<string></string>
 				<key>vitoclose</key>
 				<true/>
-			</dict>
-		</array>
-		<key>698A6D21-8A81-4110-9BF3-BF2FA07C5DC3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>C05A6557-586B-4B86-AFFB-459590991D55</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>6AAF51CA-1EE9-4CB8-B632-1B83BBD40B45</string>
-				<key>modifiers</key>
-				<integer>524288</integer>
-				<key>modifiersubtext</key>
-				<string>Reveal last image</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>6AAF51CA-1EE9-4CB8-B632-1B83BBD40B45</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>6EE7D872-0140-4B1B-B21A-D233250E9CC4</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>6EE7D872-0140-4B1B-B21A-D233250E9CC4</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>61B83861-C1E7-4430-9D5B-399018364F26</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
 			</dict>
 		</array>
 		<key>74890339-2177-4514-B0CD-9D06DF626D21</key>
@@ -297,6 +248,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B31B4473-3184-4D6C-B4D9-78FC5DCC7D00</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7776CAA9-E09E-4EF9-AE92-DA7F7BB6A2D4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>07D6395E-9C36-4E80-899A-736B6654F06A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -339,19 +303,6 @@
 				<string></string>
 				<key>sourceoutputuid</key>
 				<string>EEE23EA9-A86C-4E88-BDAE-416114DA280D</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>98D8AB67-AA1E-452D-9E1D-3BE47B471BA7</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0052DD7D-01DA-4E09-8B83-3F4994975B5F</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -447,17 +398,37 @@
 				<false/>
 			</dict>
 		</array>
-		<key>BD3EE72E-D542-4AEB-AED1-EA3C1F7BF6EC</key>
+		<key>BDDA065F-F7D3-4EAD-8C63-4071C65B0997</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98D8AB67-AA1E-452D-9E1D-3BE47B471BA7</string>
+				<string>0172102D-CED2-4AA4-A4B7-A6A2407FFE80</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D62F3F2-6C70-46B5-9867-2C59F560EEF1</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
-				<false/>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7776CAA9-E09E-4EF9-AE92-DA7F7BB6A2D4</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
 			</dict>
 		</array>
 		<key>BEF31BF9-C0C4-47F4-9ECA-3D50C2A84EE7</key>
@@ -506,60 +477,11 @@
 				<true/>
 			</dict>
 		</array>
-		<key>C05A6557-586B-4B86-AFFB-459590991D55</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>01A59F71-DA66-43E4-A948-1F2B653710DF</string>
-				<key>modifiers</key>
-				<integer>1048576</integer>
-				<key>modifiersubtext</key>
-				<string>Archive images</string>
-				<key>vitoclose</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>6EE7D872-0140-4B1B-B21A-D233250E9CC4</string>
-				<key>modifiers</key>
-				<integer>524288</integer>
-				<key>modifiersubtext</key>
-				<string>Reveal most recent image</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>C6E0966E-A4F8-4DC1-8373-F247FA06A251</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>67764921-B974-4D41-A880-7D7C20FEC182</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>C7C34D1A-42E0-4C94-B94D-C344D3EE63CE</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>C05A6557-586B-4B86-AFFB-459590991D55</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>C81D4557-D55C-4B23-8FB3-B28519D292A0</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>2DFDEB25-8ABB-4A11-A363-0879F9878137</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -718,7 +640,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Vítor Galvão</string>
+	<string>Vítor Galvão， Fork by Gene Wu</string>
 	<key>description</key>
 	<string>OpenAI integrations</string>
 	<key>disabled</key>
@@ -761,7 +683,7 @@
 				<key>acceptsurls</key>
 				<false/>
 				<key>name</key>
-				<string>Ask ChatGPT</string>
+				<string>Ask DeepSeek</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.universalaction</string>
@@ -1218,7 +1140,7 @@ kill "${pid_stream}"
 			<key>config</key>
 			<dict>
 				<key>text</key>
-				<string>Ask ChatGPT '{query}'</string>
+				<string>Ask DeepSeek '{query}'</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.fallback</string>
@@ -1468,7 +1390,7 @@ function run() {
 				<key>subtext</key>
 				<string>↩ Continue chat · ⌘↩ New chat · ⌥↩ Chat history</string>
 				<key>text</key>
-				<string>Ask ChatGPT</string>
+				<string>Ask DeepSeek(V3)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -1692,6 +1614,26 @@ function run() {
 			<key>config</key>
 			<dict>
 				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>gpt_model</key>
+					<string>deepseek-reasoner</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0172102D-CED2-4AA4-A4B7-A6A2407FFE80</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
 				<string></string>
 				<key>passthroughargument</key>
 				<false/>
@@ -1713,106 +1655,20 @@ function run() {
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>tasksettings</key>
-				<dict>
-					<key>target_path</key>
-					<string>{var:dalle_images_folder}</string>
-				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/files-and-folders/directory.children.sort</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>2DFDEB25-8ABB-4A11-A363-0879F9878137</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
-				<dict>
-					<key>save_in</key>
-					<string>{var:archive_dir}</string>
-				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/files-and-folders/finder.move</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>98D8AB67-AA1E-452D-9E1D-3BE47B471BA7</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
-				<dict>
-					<key>target_path</key>
-					<string>{var:archive_dir}</string>
-				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/files-and-folders/directory.new</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>C81D4557-D55C-4B23-8FB3-B28519D292A0</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>externaltriggerid</key>
-				<string>continue_images</string>
-				<key>passinputasargument</key>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
 				<false/>
-				<key>passvariables</key>
-				<false/>
-				<key>workflowbundleid</key>
-				<string>self</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.callexternaltrigger</string>
-			<key>uid</key>
-			<string>0052DD7D-01DA-4E09-8B83-3F4994975B5F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
+				<key>variables</key>
 				<dict>
-					<key>match_string</key>
-					<string>public.png</string>
+					<key>gpt_model</key>
+					<string>deepseek-reasoner</string>
 				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/files-and-folders/file.uti.matching</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
+			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>BD3EE72E-D542-4AEB-AED1-EA3C1F7BF6EC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>availableviaurlhandler</key>
-				<false/>
-				<key>triggerid</key>
-				<string>continue_images</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
-			<key>uid</key>
-			<string>C7C34D1A-42E0-4C94-B94D-C344D3EE63CE</string>
+			<string>5D62F3F2-6C70-46B5-9867-2C59F560EEF1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1820,83 +1676,19 @@ function run() {
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string></string>
+				<string>{query}</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
 				<dict>
-					<key>archive_dir</key>
-					<string>{var:dalle_images_folder}/Archive</string>
+					<key>gpt_model</key>
+					<string>deepseek-reasoner</string>
 				</dict>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>01A59F71-DA66-43E4-A948-1F2B653710DF</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>behaviour</key>
-				<integer>2</integer>
-				<key>fontmode</key>
-				<integer>0</integer>
-				<key>fontsizing</key>
-				<integer>0</integer>
-				<key>footertext</key>
-				<string>↩ New prompt · ⌘↩ Archive images · ⌥↩ Reveal last image</string>
-				<key>inputfile</key>
-				<string>dalle</string>
-				<key>inputtype</key>
-				<integer>1</integer>
-				<key>loadingtext</key>
-				<string>Querying DALL·E API…</string>
-				<key>outputmode</key>
-				<integer>0</integer>
-				<key>scriptinput</key>
-				<integer>2</integer>
-				<key>spellchecking</key>
-				<integer>0</integer>
-				<key>stackview</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.userinterface.text</string>
-			<key>uid</key>
-			<string>C05A6557-586B-4B86-AFFB-459590991D55</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>path</key>
-				<string></string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.revealfile</string>
-			<key>uid</key>
-			<string>61B83861-C1E7-4430-9D5B-399018364F26</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>tasksettings</key>
-				<dict>
-					<key>target_path</key>
-					<string>{var:dalle_images_folder}</string>
-				</dict>
-				<key>taskuid</key>
-				<string>com.alfredapp.automation.core/files-and-folders/directory.children.sort.added.leading.1</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.automation.task</string>
-			<key>uid</key>
-			<string>6EE7D872-0140-4B1B-B21A-D233250E9CC4</string>
+			<string>7776CAA9-E09E-4EF9-AE92-DA7F7BB6A2D4</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1906,28 +1698,20 @@ function run() {
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>keyword</key>
-				<string>{var:dalle_keyword}</string>
+				<string>{var:chatgpt_keyword}r</string>
 				<key>skipuniversalaction</key>
 				<true/>
 				<key>subtext</key>
-				<string>Send image prompt to DALL·E</string>
+				<string>↩ Continue chat · ⌘↩ New chat · ⌥↩ Chat history</string>
 				<key>text</key>
-				<string>Generate with DALL·E</string>
+				<string>Ask DeepSeek(R1)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>698A6D21-8A81-4110-9BF3-BF2FA07C5DC3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.junction</string>
-			<key>uid</key>
-			<string>6AAF51CA-1EE9-4CB8-B632-1B83BBD40B45</string>
+			<string>BDDA065F-F7D3-4EAD-8C63-4071C65B0997</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1942,13 +1726,13 @@ function run() {
 
 ## Usage
 
-### ChatGPT
+### DeepSeek
 
-Query ChatGPT via the `chatgpt` keyword, the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/), or the [Fallback Search](https://www.alfredapp.com/help/features/default-results/fallback-searches/).
+Query DeepSeek via the `ds` keyword, the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/), or the [Fallback Search](https://www.alfredapp.com/help/features/default-results/fallback-searches/).
 
-![Start ChatGPT query](images/about/chatgptkeyword.png)
+![Start DeepSeek query](images/about/chatgptkeyword.png)
 
-![Querying ChatGPT](images/about/chatgpttextview.png)
+![Querying DeepSeek](images/about/chatgpttextview.png)
 
 * &lt;kbd&gt;↩&lt;/kbd&gt; Ask a new question.
 * &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Clear and start new chat.
@@ -1958,38 +1742,19 @@ Query ChatGPT via the `chatgpt` keyword, the [Universal Action](https://www.alfr
 
 #### Chat History
 
-View Chat History with ⌥↩ in the `chatgpt` keyword. Each result shows the first question as the title and the last as the subtitle.
+View Chat History with ⌥↩ in the `ds` keyword. Each result shows the first question as the title and the last as the subtitle.
 
 ![Viewing chat histories](images/about/chatgpthistory.png)
 
-&lt;kbd&gt;↩&lt;/kbd&gt; to archive the current chat and load the selected one. Older chats can be trashed with the `Delete` [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). Select multiple chats with the [File Buffer](https://www.alfredapp.com/help/features/file-search/#file-buffer).
-
-### DALL·E
-
-Query DALL·E via the `dalle` keyword.
-
-![Start DALL-E query](images/about/dallekeyword.png)
-
-![Querying DALL-E](images/about/dalletextview.png)
-
-* &lt;kbd&gt;↩&lt;/kbd&gt; Send a new prompt.
-* &lt;kbd&gt;⌘&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Archive images.
-* &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;↩&lt;/kbd&gt; Reveal last image in the Finder.</string>
+&lt;kbd&gt;↩&lt;/kbd&gt; to archive the current chat and load the selected one. Older chats can be trashed with the `Delete` [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). Select multiple chats with the [File Buffer](https://www.alfredapp.com/help/features/file-search/#file-buffer).</string>
 	<key>uidata</key>
 	<dict>
 		<key>002874FF-3AE4-4E8F-A4F8-65844E5D6CFB</key>
 		<dict>
 			<key>xpos</key>
-			<real>1025</real>
+			<real>1020</real>
 			<key>ypos</key>
 			<real>220</real>
-		</dict>
-		<key>0052DD7D-01DA-4E09-8B83-3F4994975B5F</key>
-		<dict>
-			<key>xpos</key>
-			<real>1385</real>
-			<key>ypos</key>
-			<real>840</real>
 		</dict>
 		<key>009F4B0B-7B7E-455F-9EA7-51334DBA92F1</key>
 		<dict>
@@ -1998,12 +1763,12 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>225</real>
 		</dict>
-		<key>01A59F71-DA66-43E4-A948-1F2B653710DF</key>
+		<key>0172102D-CED2-4AA4-A4B7-A6A2407FFE80</key>
 		<dict>
 			<key>xpos</key>
-			<real>525</real>
+			<real>205</real>
 			<key>ypos</key>
-			<real>870</real>
+			<real>615</real>
 		</dict>
 		<key>02627B69-31FA-4441-A186-B2095B6F40B9</key>
 		<dict>
@@ -2060,13 +1825,6 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>85</real>
 		</dict>
-		<key>2DFDEB25-8ABB-4A11-A363-0879F9878137</key>
-		<dict>
-			<key>xpos</key>
-			<real>865</real>
-			<key>ypos</key>
-			<real>840</real>
-		</dict>
 		<key>2F3B5565-0BBD-4DC6-962B-BEF7277AC599</key>
 		<dict>
 			<key>xpos</key>
@@ -2097,12 +1855,12 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>330</real>
 		</dict>
-		<key>61B83861-C1E7-4430-9D5B-399018364F26</key>
+		<key>5D62F3F2-6C70-46B5-9867-2C59F560EEF1</key>
 		<dict>
 			<key>xpos</key>
-			<real>690</real>
+			<real>350</real>
 			<key>ypos</key>
-			<real>970</real>
+			<real>710</real>
 		</dict>
 		<key>67764921-B974-4D41-A880-7D7C20FEC182</key>
 		<dict>
@@ -2113,33 +1871,19 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>55</real>
 		</dict>
-		<key>698A6D21-8A81-4110-9BF3-BF2FA07C5DC3</key>
-		<dict>
-			<key>xpos</key>
-			<real>65</real>
-			<key>ypos</key>
-			<real>970</real>
-		</dict>
-		<key>6AAF51CA-1EE9-4CB8-B632-1B83BBD40B45</key>
-		<dict>
-			<key>xpos</key>
-			<real>310</real>
-			<key>ypos</key>
-			<real>1110</real>
-		</dict>
-		<key>6EE7D872-0140-4B1B-B21A-D233250E9CC4</key>
-		<dict>
-			<key>xpos</key>
-			<real>485</real>
-			<key>ypos</key>
-			<real>970</real>
-		</dict>
 		<key>74890339-2177-4514-B0CD-9D06DF626D21</key>
 		<dict>
 			<key>xpos</key>
 			<real>1090</real>
 			<key>ypos</key>
 			<real>210</real>
+		</dict>
+		<key>7776CAA9-E09E-4EF9-AE92-DA7F7BB6A2D4</key>
+		<dict>
+			<key>xpos</key>
+			<real>490</real>
+			<key>ypos</key>
+			<real>750</real>
 		</dict>
 		<key>7CE25BF5-0AF8-411E-8A05-244BF7CA878F</key>
 		<dict>
@@ -2151,7 +1895,7 @@ Query DALL·E via the `dalle` keyword.
 		<key>84A47CA0-9D2D-4F06-A7AD-71C5DEF87663</key>
 		<dict>
 			<key>xpos</key>
-			<real>740</real>
+			<real>750</real>
 			<key>ypos</key>
 			<real>455</real>
 		</dict>
@@ -2160,7 +1904,7 @@ Query DALL·E via the `dalle` keyword.
 			<key>xpos</key>
 			<real>625</real>
 			<key>ypos</key>
-			<real>645</real>
+			<real>620</real>
 		</dict>
 		<key>93C97340-619A-4F67-AC74-5CC27EFAC17F</key>
 		<dict>
@@ -2170,13 +1914,6 @@ Query DALL·E via the `dalle` keyword.
 			<real>580</real>
 			<key>ypos</key>
 			<real>75</real>
-		</dict>
-		<key>98D8AB67-AA1E-452D-9E1D-3BE47B471BA7</key>
-		<dict>
-			<key>xpos</key>
-			<real>1210</real>
-			<key>ypos</key>
-			<real>840</real>
 		</dict>
 		<key>A4782A1E-2A93-401B-9CB7-1D8770AD510E</key>
 		<dict>
@@ -2209,9 +1946,9 @@ Query DALL·E via the `dalle` keyword.
 		<key>B2F04B2C-63AD-4A6D-9A81-7F333D0A075A</key>
 		<dict>
 			<key>xpos</key>
-			<real>295</real>
+			<real>300</real>
 			<key>ypos</key>
-			<real>615</real>
+			<real>565</real>
 		</dict>
 		<key>B31B4473-3184-4D6C-B4D9-78FC5DCC7D00</key>
 		<dict>
@@ -2234,12 +1971,14 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>360</real>
 		</dict>
-		<key>BD3EE72E-D542-4AEB-AED1-EA3C1F7BF6EC</key>
+		<key>BDDA065F-F7D3-4EAD-8C63-4071C65B0997</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
 			<key>xpos</key>
-			<real>1040</real>
+			<real>75</real>
 			<key>ypos</key>
-			<real>840</real>
+			<real>795</real>
 		</dict>
 		<key>BEF31BF9-C0C4-47F4-9ECA-3D50C2A84EE7</key>
 		<dict>
@@ -2257,13 +1996,6 @@ Query DALL·E via the `dalle` keyword.
 			<key>ypos</key>
 			<real>455</real>
 		</dict>
-		<key>C05A6557-586B-4B86-AFFB-459590991D55</key>
-		<dict>
-			<key>xpos</key>
-			<real>275</real>
-			<key>ypos</key>
-			<real>970</real>
-		</dict>
 		<key>C6E0966E-A4F8-4DC1-8373-F247FA06A251</key>
 		<dict>
 			<key>colorindex</key>
@@ -2272,20 +2004,6 @@ Query DALL·E via the `dalle` keyword.
 			<real>220</real>
 			<key>ypos</key>
 			<real>135</real>
-		</dict>
-		<key>C7C34D1A-42E0-4C94-B94D-C344D3EE63CE</key>
-		<dict>
-			<key>xpos</key>
-			<real>65</real>
-			<key>ypos</key>
-			<real>840</real>
-		</dict>
-		<key>C81D4557-D55C-4B23-8FB3-B28519D292A0</key>
-		<dict>
-			<key>xpos</key>
-			<real>690</real>
-			<key>ypos</key>
-			<real>840</real>
 		</dict>
 		<key>CBBF8BED-C42D-4793-8FEA-EA80FC94C493</key>
 		<dict>
@@ -2386,7 +2104,7 @@ Query DALL·E via the `dalle` keyword.
 			<key>description</key>
 			<string></string>
 			<key>label</key>
-			<string>ChatGPT Keyword</string>
+			<string>Deepseek Keyword</string>
 			<key>type</key>
 			<string>textfield</string>
 			<key>variable</key>
@@ -2495,170 +2213,6 @@ Query DALL·E via the `dalle` keyword.
 			<key>config</key>
 			<dict>
 				<key>default</key>
-				<string>dalle</string>
-				<key>placeholder</key>
-				<string></string>
-				<key>required</key>
-				<false/>
-				<key>trim</key>
-				<true/>
-			</dict>
-			<key>description</key>
-			<string></string>
-			<key>label</key>
-			<string>DALL·E Keyword</string>
-			<key>type</key>
-			<string>textfield</string>
-			<key>variable</key>
-			<string>dalle_keyword</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>~/Desktop/DALL-E</string>
-				<key>filtermode</key>
-				<integer>1</integer>
-				<key>placeholder</key>
-				<string></string>
-				<key>required</key>
-				<false/>
-			</dict>
-			<key>description</key>
-			<string></string>
-			<key>label</key>
-			<string>Save Folder</string>
-			<key>type</key>
-			<string>filepicker</string>
-			<key>variable</key>
-			<string>dalle_images_folder</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<true/>
-				<key>required</key>
-				<false/>
-				<key>text</key>
-				<string>Write prompt and creator to image file metadata</string>
-			</dict>
-			<key>description</key>
-			<string></string>
-			<key>label</key>
-			<string>Include Metadata</string>
-			<key>type</key>
-			<string>checkbox</string>
-			<key>variable</key>
-			<string>dalle_write_metadata</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>dall-e-2</string>
-				<key>pairs</key>
-				<array>
-					<array>
-						<string>DALL·E 2</string>
-						<string>dall-e-2</string>
-					</array>
-					<array>
-						<string>DALL·E 3</string>
-						<string>dall-e-3</string>
-					</array>
-				</array>
-			</dict>
-			<key>description</key>
-			<string></string>
-			<key>label</key>
-			<string>Image Model</string>
-			<key>type</key>
-			<string>popupbutton</string>
-			<key>variable</key>
-			<string>dalle_model</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>vivid</string>
-				<key>pairs</key>
-				<array>
-					<array>
-						<string>Vivid</string>
-						<string>vivid</string>
-					</array>
-					<array>
-						<string>Natural</string>
-						<string>natural</string>
-					</array>
-				</array>
-			</dict>
-			<key>description</key>
-			<string>Only supported on DALL·E 3.</string>
-			<key>label</key>
-			<string>Style</string>
-			<key>type</key>
-			<string>popupbutton</string>
-			<key>variable</key>
-			<string>dalle_style</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>standard</string>
-				<key>pairs</key>
-				<array>
-					<array>
-						<string>Standard</string>
-						<string>standard</string>
-					</array>
-					<array>
-						<string>High Definition</string>
-						<string>hd</string>
-					</array>
-				</array>
-			</dict>
-			<key>description</key>
-			<string>Only supported on DALL·E 3.</string>
-			<key>label</key>
-			<string>Quality</string>
-			<key>type</key>
-			<string>popupbutton</string>
-			<key>variable</key>
-			<string>dalle_quality</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>defaultvalue</key>
-				<integer>1</integer>
-				<key>markercount</key>
-				<integer>10</integer>
-				<key>maxvalue</key>
-				<integer>10</integer>
-				<key>minvalue</key>
-				<integer>1</integer>
-				<key>onlystoponmarkers</key>
-				<true/>
-				<key>showmarkers</key>
-				<true/>
-			</dict>
-			<key>description</key>
-			<string>DALL·E 2 can generate up to 10 images. DALL·E 3 generates 1.</string>
-			<key>label</key>
-			<string>Count</string>
-			<key>type</key>
-			<string>slider</string>
-			<key>variable</key>
-			<string>dalle_image_number</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
 				<string></string>
 				<key>placeholder</key>
 				<string>Optional OpenAI Organisation Identifier</string>
@@ -2680,15 +2234,17 @@ Query DALL·E via the `dalle` keyword.
 	<key>variables</key>
 	<dict>
 		<key>chatgpt_api_endpoint</key>
-		<string>https://api.openai.com/v1/chat/completions</string>
+		<string>https://api.deepseek.com/v1/chat/completions</string>
 		<key>chatgpt_model_override</key>
-		<string></string>
+		<string>deepseek-chat</string>
 		<key>dalle_api_endpoint</key>
 		<string>https://api.openai.com/v1/images/generations</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>2024.19</string>
+	<string>2025.1</string>
 	<key>webaddress</key>
-	<string>https://github.com/alfredapp/openai-workflow/</string>
+	<string>https://github.com/genewoo/deepseek-workflow/</string>
 </dict>
 </plist>

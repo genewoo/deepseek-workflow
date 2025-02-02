@@ -41,7 +41,7 @@ function appendChat(path, message) {
 function markdownChat(messages, ignoreLastInterrupted = true) {
   return messages.reduce((accumulator, current, index, allMessages) => {
     if (current["role"] === "assistant")
-      return `${accumulator}${current["content"]}\n\n`
+      return `${accumulator}${current["content"].replace(/\\[\[\]\(\)]/g, '`')}\n\n`
 
     if (current["role"] === "user") {
       const userMessage = current["content"].split("\n").map(line => `### ${line}`).join("\n") // support multi-line questions (e.g. via External Trigger)
