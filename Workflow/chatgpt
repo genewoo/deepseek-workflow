@@ -178,7 +178,7 @@ function readStream(streamFile, chatFile, pidStreamFile) {
   const footerText = (function() {
     switch (finishReason) {
       case "legth": return "Maximum number of tokens reached"
-      case "content_filter": return "Content was omitted due to a flag from OpenAI content filters"
+      case "content_filter": return "Content was omitted due to a flag from DeepSeek content filters"
     }
   })()
 
@@ -195,13 +195,13 @@ function run(argv) {
   // Constant data
   const typedQuery = argv[0]
   const maxContext = parseInt(envVar("max_context"))
-  const apiKey = envVar("openai_api_key")
-  const apiOrgHeader = envVar("openai_org_id") ? ["--header", `OpenAI-Organization: ${envVar("openai_org_id")}`] : []
-  const apiEndpointInit = envVar("chatgpt_api_endpoint") || "https://api.openai.com/v1/chat/completions"
+  const apiKey = envVar("deepseek_api_key")
+  const apiOrgHeader = envVar("deepseek_org_id") ? ["--header", `DeepSeek-Organization: ${envVar("deepseek_org_id")}`] : []
+  const apiEndpointInit = envVar("deepseek_api_endpoint") || "https://api.deepseek.com/v1/chat/completions"
   const apiEndpointInitHasPath = apiEndpointInit.replace(/^https?:\/\//, "").includes("/")
   const apiEndpoint = apiEndpointInitHasPath ? apiEndpointInit : `${apiEndpointInit}/v1/chat/completions`
   const systemPrompt = envVar("system_prompt")
-  const model = envVar("chatgpt_model_override") ? envVar("chatgpt_model_override") : envVar("gpt_model")
+  const model = envVar("deepseek_model_override") ? envVar("deepseek_model_override") : envVar("gpt_model")
   const chatFile = `${envVar("alfred_workflow_data")}/chat.json`
   const pidStreamFile = `${envVar("alfred_workflow_cache")}/pid.txt`
   const streamFile = `${envVar("alfred_workflow_cache")}/stream.txt`

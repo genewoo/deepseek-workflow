@@ -642,11 +642,11 @@
 	<key>createdby</key>
 	<string>Vítor Galvão， Fork by Gene Wu</string>
 	<key>description</key>
-	<string>OpenAI integrations</string>
+	<string>DeepSeek integrations</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>ChatGPT / DALL-E</string>
+	<string>DeepSeek Chat V3/R1</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -2233,12 +2233,10 @@ View Chat History with ⌥↩ in the `ds` keyword. Each result shows the first q
 	</array>
 	<key>variables</key>
 	<dict>
-		<key>chatgpt_api_endpoint</key>
+		<key>deepseek_api_endpoint</key>
 		<string>https://api.deepseek.com/v1/chat/completions</string>
-		<key>chatgpt_model_override</key>
+		<key>deepseek_model_override</key>
 		<string>deepseek-chat</string>
-		<key>dalle_api_endpoint</key>
-		<string>https://api.openai.com/v1/images/generations</string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array/>
